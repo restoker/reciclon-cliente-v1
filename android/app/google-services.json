@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266116273440",
+    "project_id": "reciclon-4e383",
+    "storage_bucket": "reciclon-4e383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266116273440:android:e52c26b9e768ccc4197345",
+        "android_client_info": {
+          "package_name": "com.example.reciclon_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266116273440-7ath9ge8jh71gvnqchth2jpnfe32tn69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reciclon_client",
+            "certificate_hash": "16ee4bc3507bd29a64154cd35a72fe4c3f0793a9"
+          }
+        },
+        {
+          "client_id": "266116273440-8vshnailek6c01l5ois98buep3fumj7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sbbJAqjnxm_imwqeMaj7RBLnCrHknLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266116273440-8vshnailek6c01l5ois98buep3fumj7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
